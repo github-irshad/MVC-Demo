@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj": {}
+    "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj": {
+    "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+        "projectUniqueName": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
         "projectName": "ASPNETMVCCRUD",
-        "projectPath": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+        "projectPath": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
         "packagesPath": "C:\\Users\\muhammed.irshad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\",
+        "outputPath": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

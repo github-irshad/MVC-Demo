@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\Views\\Employees\\Add.cshtml",
+      "TargetPath": "Views\\Employees\\Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
