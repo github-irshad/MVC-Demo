@@ -16,3 +16,6 @@ install dotnet tool for EF(not built in dotnet Have to install explicitly):
   Update Database : dotnet ef database update
 
   MVC YT video link : https://youtu.be/2Cp8Ti_f9Gk
+
+Date time eror occured: (For postgres not for Sql server) Cannot write DateTime with Kind=Unspecified to PostgreSQL type 'timestamp with time zone', only UTC is supported. Solution: Add below code to program.cs
+  AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);

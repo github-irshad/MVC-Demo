@@ -8,6 +8,11 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<MVCDemoDbContext>(options => 
 options.UseNpgsql(builder.Configuration.GetConnectionString("MVCDemoConnectionString")));
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
+/*var host = builder.Build();
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);*/
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -28,5 +33,7 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+// await host.RunAsync();
 
 app.Run();
