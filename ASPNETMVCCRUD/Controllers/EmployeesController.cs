@@ -7,6 +7,7 @@ using ASPNETMVCCRUD.Models;
 using ASPNETMVCCRUD.Models.Domain;
 using Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 namespace ASPNETMVCCRUD.Controllers
@@ -26,6 +27,12 @@ namespace ASPNETMVCCRUD.Controllers
         //     _logger = logger;
             
         // }
+        [HttpGet]
+        public async Task<IActionResult> Index()
+        {
+            var employees = await mvcDemoDbContext.Empoloyees.ToListAsync();
+            return View(employees);
+        }
 
         [HttpGet]
         public IActionResult Add()
@@ -34,6 +41,7 @@ namespace ASPNETMVCCRUD.Controllers
         }
 
         [HttpPost]
+        
         public async Task<IActionResult> Add(AddEmployeeViewModel addEmployeeRequest)
         {
             var employee = new Employee(){
@@ -47,7 +55,7 @@ namespace ASPNETMVCCRUD.Controllers
 
             await mvcDemoDbContext.Empoloyees.AddAsync(employee);
             await mvcDemoDbContext.SaveChangesAsync();
-            return RedirectToAction("Add");
+            return RedirectToAction("Index");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
