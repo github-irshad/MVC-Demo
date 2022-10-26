@@ -12,5 +12,5 @@ install dotnet tool for EF(not built in dotnet Have to install explicitly):
   https://www.nuget.org/packages/dotnet-ef/#versions-tab
   dotnet tool install --global dotnet-ef --version 6.0.10
 
-  Add migration : dotnet ef migrations add MyFirstMigration
+  Add migration : dotnet ef migrations add "Initial Migration"
   Update Database : dotnet ef database update
