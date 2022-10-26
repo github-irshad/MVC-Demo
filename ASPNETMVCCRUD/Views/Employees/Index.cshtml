@@ -10,6 +10,7 @@
         <th>Department</th>
         <th>Salary</th>
         <th>Date of birth</th>
+        <th> </th>
       </tr>
     </thead>
 
@@ -23,6 +24,8 @@
           <td>@employee.Department</td>
           <td>@employee.Salary<td>
           <td>@employee.DateOfBirth.ToString("dd-MM-yyyy")</td>
+          <td><a href="Employees/View/@employee.Id">View or edit</a></td>
+          
         </tr>
       }
     </tbody>

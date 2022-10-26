@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v8a6xzSy4Sx9wUyPWmqDbnDdbJ2yODIsFHWOHRVLqyo=",
+  "Hash": "fFZux3Tq8Zh4tRc48amkhkO9fB4CbKhfZkWxu/RuU4U=",
   "Source": "ASPNETMVCCRUD",
   "BasePath": "_content/ASPNETMVCCRUD",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASPNETMVCCRUD.styles.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASPNETMVCCRUD.styles.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ASPNETMVCCRUD",
       "RelativePath": "ASPNETMVCCRUD.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASPNETMVCCRUD.styles.css"
+      "OriginalItemSpec": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASPNETMVCCRUD.styles.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPNETMVCCRUD.bundle.scp.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPNETMVCCRUD.bundle.scp.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ASPNETMVCCRUD",
       "RelativePath": "ASPNETMVCCRUD.bundle.scp.css",
       "AssetKind": "All",
@@ -48,10 +48,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPNETMVCCRUD.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPNETMVCCRUD.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\css\\site.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -68,7 +68,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\favicon.ico",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\favicon.ico",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -85,7 +85,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\js\\site.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\js\\site.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -102,7 +102,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -119,7 +119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -136,7 +136,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -153,7 +153,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -170,7 +170,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -187,7 +187,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -204,7 +204,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -221,7 +221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -238,7 +238,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -255,7 +255,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -272,7 +272,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -289,7 +289,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -306,7 +306,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -323,7 +323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -357,7 +357,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -374,7 +374,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -391,7 +391,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -408,7 +408,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -425,7 +425,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -442,7 +442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -459,7 +459,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -476,7 +476,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -493,7 +493,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -510,7 +510,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -527,7 +527,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -544,7 +544,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -561,7 +561,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -578,7 +578,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -595,7 +595,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -612,7 +612,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -629,7 +629,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -646,7 +646,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -680,7 +680,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -697,7 +697,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -714,7 +714,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -731,7 +731,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -748,7 +748,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -765,7 +765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -782,7 +782,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -799,7 +799,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -816,7 +816,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -833,7 +833,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -850,7 +850,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -867,7 +867,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -884,7 +884,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -901,7 +901,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -918,7 +918,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -935,7 +935,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -952,7 +952,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -969,7 +969,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -1003,7 +1003,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -1020,7 +1020,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -1037,7 +1037,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
@@ -1054,7 +1054,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ASPNETMVCCRUD",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\muhammed.irshad\\Desktop\\ASP NET CRUD\\ASPNETMVCCRUD\\wwwroot\\",
