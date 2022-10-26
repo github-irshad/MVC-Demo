@@ -14,3 +14,5 @@ install dotnet tool for EF(not built in dotnet Have to install explicitly):
 
   Add migration : dotnet ef migrations add "Initial Migration"
   Update Database : dotnet ef database update
+
+  MVC YT video link : https://youtu.be/2Cp8Ti_f9Gk
